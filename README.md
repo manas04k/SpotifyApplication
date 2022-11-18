@@ -1,0 +1,3 @@
+# SpotifyApplication
+This is a basic application ...Implemented some features of Spotify.
+This Application has functions like create playlist, play next song, play previous song, delete song from playlist etc... 
